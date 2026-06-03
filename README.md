@@ -45,7 +45,7 @@ Aplikasi ini dibagi menjadi beberapa tahapan kode (mencakup program Kategori A, 
 
 ## 💻 Teknologi dan Library yang Digunakan
 
-*   **Python 3.x** - Bahasa pemrograman utama.
+*   **Python 3.14** - Bahasa pemrograman utama.
 *   **Jupyter Notebook (`.ipynb`)** - Lingkungan kerja interaktif untuk penulisan kode dan penampilan grafik secara langsung.
 *   **Pandas & NumPy** - Digunakan untuk manipulasi struktur tabel data dan komputasi matriks numerik.
 *   **Matplotlib & Seaborn** - Digunakan untuk memproduksi visualisasi grafik tren yang rapi dan informatif.
