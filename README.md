@@ -1,6 +1,6 @@
 # 🏠 Analisis Tren dan Pemodelan Prediksi Harga Rumah (Kelompok 4 - Kelas C)
 
-Repositori ini dibuat sebagai dokumentasi dan penyimpanan seluruh komponen tugas Post-Test Praktikum Algoritma dan Pemrograman 2026. Proyek ini berfokus pada Analisis Data Eksploratif (EDA), visualisasi tren, serta pembangunan model analitik untuk memprediksi harga rumah menggunakan dataset **"Kelas C_Housing.csv"**.
+Repositori ini dibuat sebagai dokumentasi dan penyimpanan seluruh tugas Post-Test Praktikum Algoritma dan Pemrograman Semester 2 Teknik Elektro Universitas Diponegoro. Proyek ini berfokus pada Analisis Data Eksploratif, visualisasi tren, serta pembangunan model analitik untuk memprediksi harga rumah menggunakan dataset **"Kelas C_Housing.csv"**.
 
 Repositori ini bersifat **Public** agar dapat diakses dengan mudah oleh tim asisten praktikum untuk proses penilaian.
 
